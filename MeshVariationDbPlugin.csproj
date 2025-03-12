@@ -76,7 +76,6 @@
 
 	<ItemGroup>
 		<Resource Include="Images\Alpha.png" />
-		<Resource Include="Images\AlphaMesh.png" />
 		<Resource Include="Images\Hash.png" />
 	</ItemGroup>
 </Project>
