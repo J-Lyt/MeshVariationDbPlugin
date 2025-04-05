@@ -75,7 +75,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<Resource Include="Icons\Alpha.ico" />
+		<Resource Include="Icons\FindAndReplace.ico" />
+		<Resource Include="Icons\Hash.ico" />
 		<Resource Include="Images\Alpha.png" />
+		<Resource Include="Images\AlphaStatusHappy.png" />
+		<Resource Include="Images\AlphaStatusSad.png" />
 		<Resource Include="Images\Hash.png" />
+		<Resource Include="Images\Refresh.png" />
 	</ItemGroup>
 </Project>

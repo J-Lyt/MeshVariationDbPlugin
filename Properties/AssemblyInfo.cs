@@ -22,7 +22,7 @@ using System.Windows;
 
 [assembly: PluginDisplayName("MeshVariationDb Editor")]
 [assembly: PluginAuthor("Joel")]
-[assembly: PluginVersion("1.0.0.0")]
+[assembly: PluginVersion("1.1.0.0")]
 
 [assembly: RegisterAssetDefinition("MeshVariationDatabase", typeof(MeshVariationDatabaseDefinition))]
 
